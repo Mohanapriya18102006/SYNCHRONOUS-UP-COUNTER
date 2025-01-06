@@ -41,7 +41,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![WhatsApp Image 2025-01-03 at 14 01 03_e1039ea2](https://github.com/user-attachments/assets/09f960c4-8880-491e-a48b-eedf6fdfaa01)
+![WhatsApp Image 2025-01-06 at 10 33 28_b19ff70e](https://github.com/user-attachments/assets/f44e1307-8a99-4ec0-ae4c-f64e0a7ccfc1)
 
 **TRUTH TABLE**
 
